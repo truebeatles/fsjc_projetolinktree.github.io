@@ -3,14 +3,15 @@
     padding: 0;
 }
 
-html, body {
+/*html, body {
     height: 100%;
-}
+}*/
 
 
 body {
+    height: auto;
     color: white;
-    background: rgb(54,77,204);
+    /*background: rgb(54,77,204);*/
     background: linear-gradient(180deg, rgba(54,77,204,1) 0%, rgba(18,35,133,1) 100%); 
     font-family: 'Raleway', sans-serif;
 
